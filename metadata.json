@@ -1,0 +1,5 @@
+{
+  "name": "Visual Soal Pro",
+  "description": "A professional tool to convert educational sociology stimuli into high-fidelity visual prompts and illustrations using Gemini 2.0 Flash and Imagen 3.",
+  "requestFramePermissions": []
+}
